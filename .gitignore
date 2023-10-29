@@ -3,6 +3,18 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+
+# Hugging Face projects
+projects/
+
+# Notebook logs
+notebooks/logs/
+
+# Model files
+*.hf
+
+
+
 # C extensions
 *.so
 
